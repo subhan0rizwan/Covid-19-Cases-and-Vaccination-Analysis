@@ -1,4 +1,4 @@
-#**COVID-19 Dashboard: Tracking Total Cases, Infection Rate, People Infected, and Vaccination Progress**
+# COVID-19 Dashboard: Tracking Total Cases, Infection Rate, People Infected, and Vaccination Progress
 
 Welcome to my COVID-19 Dashboard project on Power BI, designed to provide a comprehensive overview of the COVID-19 pandemic's impact. This dashboard tracks key metrics including total cases, infection rate, number of people infected, and vaccination progress, offering valuable insights into the global health crisis.
 
